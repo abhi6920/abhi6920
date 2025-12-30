@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abhinay Ponaganti</h1>
-<h3 align="center">Frontend Developer | JavaScript • React • UI Engineering</h3>
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Abhinay Ponaganti</h1>
+  <h3 align="center">Frontend Developer | JavaScript • React • UI Engineering</h3>
+</p>
 
 <p align="center">
-I build clean, responsive, and user-focused web applications.<br/>
-Focused on performance, usability, and maintainable code.
+  Crafting clean, responsive, and user-focused web interfaces.<br/>
+  Focused on performance, usability, and maintainable frontend solutions.
 </p>
 
 <p align="center">
@@ -12,70 +14,80 @@ Focused on performance, usability, and maintainable code.
 
 ---
 
-### 💼 Open to Opportunities
-I am currently open to **Frontend Developer / UI Engineer / Web Developer** roles, where I can contribute to building scalable, high-quality user interfaces that deliver real business value.
+## 💼 Open to Opportunities
+I am currently open to **Frontend Developer / UI Engineer / Web Developer** roles.
 
-📩 Feel free to reach out via **email or LinkedIn** for full-time, entry-level, or contract opportunities.
+Looking to join a team where **clean UI, performance, and user experience** are valued.  
+Available for **full-time, entry-level, or contract** opportunities.
 
----
-
-### 👨‍💻 Professional Summary
-- Frontend Developer with strong fundamentals in **HTML, CSS, JavaScript, and React**
-- Experienced in creating **responsive, pixel-perfect, and accessible UI**
-- Focused on **clean code, performance optimization, and best practices**
-- Comfortable collaborating with designers, backend developers, and stakeholders
-- 📍 Based in **India**
+📩 **Email:** ponagantiabhinay@gmail.com  
+📍 **Location:** India
 
 ---
 
-### 📫 Contact
-- 📧 **Email:** ponagantiabhinay@gmail.com  
-- 📄 **Resume:** [Abhinay Ponaganti.pdf](Abhinay Ponaganti.pdf)
+## 👨‍💻 About Me
+- Strong fundamentals in **HTML, CSS, JavaScript, and React**
+- Experience building **responsive and modern web interfaces**
+- Focused on **clean code, accessibility, and UI best practices**
+- Comfortable collaborating with designers and backend developers
+- Continuous learner with a problem-solving mindset
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ Languages & Tools
 <p align="left">
-<a href="https://linkedin.com/in/abhinay-ponaganti-16b7041a1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.leetcode.com/abhinay_ponaganti" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
+  <!-- Frontend -->
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+  </a>
+
+  <!-- Programming -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  </a>
+
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  </a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+## 🌐 Connect With Me
+- 🔗 **LinkedIn:** https://linkedin.com/in/abhinay-ponaganti-16b7041a1  
+- 💻 **LeetCode:** https://www.leetcode.com/abhinay_ponaganti  
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi6920&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi6920&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi6920&layout=compact&hide_border=true" />
-</p>
-
----
-
-### ⚡ Professional Quote
-> **“I don’t just write code — I build interfaces that are clean, usable, and built to scale.”**
+## ✨ Professional Philosophy
+> *“Good frontend development is invisible — users notice the experience, not the code behind it.”*

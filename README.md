@@ -1,27 +1,39 @@
 
 <!-- ===================================================== -->
 <!-- ABHINAY PONAGANTI | FINANCE & ANALYTICS PORTFOLIO      -->
-<!-- PREMIUM DARK NAVY • CYAN • BUSINESS INTELLIGENCE      -->
+<!-- DARK NAVY • CYAN • BUSINESS INTELLIGENCE               -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:020817,40:0B1F3A,75:075985,100:0891B2&text=ABHINAY%20PONAGANTI&fontColor=FFFFFF&fontSize=43&fontAlign=50&fontAlignY=39&desc=MBA%20FINANCE%20GRADUATE&descSize=19&descAlign=50&descAlignY=56&animation=fadeIn" alt="Abhinay Ponaganti"/>
+<!-- FULL-WIDTH HERO BANNER -->
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=FINANCE+%7C+ANALYTICS+%7C+BUSINESS+INTELLIGENCE;FINANCIAL+SERVICES+%7C+REPORTING+%7C+MIS;TURNING+DATA+INTO+BUSINESS+INSIGHTS" alt="Animated career interests"/>
-</a>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:020817,40:0B1F3A,75:075985,100:0891B2&text=ABHINAY%20PONAGANTI&fontColor=FFFFFF&fontSize=44&fontAlign=50&fontAlignY=40&desc=MBA%20FINANCE%20%7C%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn"
+  width="100%"
+  alt="Abhinay Ponaganti — Finance and Analytics"
+/>
+
+<br/>
+
+<!-- ANIMATED INTRODUCTION -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=FINANCE+%7C+FINANCIAL+SERVICES+%7C+ANALYTICS;BUSINESS+INTELLIGENCE+%7C+REPORTING+%7C+MIS;TURNING+DATA+INTO+MEANINGFUL+BUSINESS+INSIGHTS"
+  width="100%"
+  alt="Animated career interests"
+/>
 
 <br/>
 
 <a href="https://linkedin.com/in/abhinay-ponaganti-16b7041a1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/abhi6920">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:ponagantiabhinay@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -32,11 +44,7 @@
 
 ---
 
-<!-- ================== BUSINESS OVERVIEW ================== -->
-
-<h2 align="center">▰ FINANCE • DATA • BUSINESS INSIGHTS</h2>
-
-<div align="center">
+## ◈ FINANCE • DATA • BUSINESS INSIGHTS
 
 <table>
 <tr>
@@ -46,7 +54,7 @@
 
 **Financial Analysis**
 
-<sub>Financial data & performance</sub>
+<sub>Financial data and performance</sub>
 
 </td>
 <td align="center" width="20%">
@@ -55,7 +63,7 @@
 
 **Business Intelligence**
 
-<sub>Insights from data</sub>
+<sub>Data-driven insights</sub>
 
 </td>
 <td align="center" width="20%">
@@ -64,7 +72,7 @@
 
 **Finance Operations**
 
-<sub>Accurate processes</sub>
+<sub>Accurate business processes</sub>
 
 </td>
 <td align="center" width="20%">
@@ -88,13 +96,9 @@
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- ====================== ABOUT ME ====================== -->
-
-<h2>◈ &nbsp; ABOUT ME</h2>
+## ◈ ABOUT ME
 
 <table>
 <tr>
@@ -104,16 +108,16 @@
 
 I'm an **MBA Finance graduate** with six months of professional experience at Amazon Development Centre (India) Pvt. Ltd.
 
-I'm interested in opportunities across **Finance, Financial Services, Analytics, Business Intelligence, Reporting, and Business Analysis**.
+I'm exploring opportunities across **Finance, Financial Services, Analytics, Business Intelligence, Reporting, and Business Analysis**.
 
-I enjoy investigating discrepancies, interpreting data, improving processes, and understanding how analytical insights support business decisions.
+I enjoy investigating discrepancies, interpreting data, improving processes, and understanding how analysis supports business decisions.
 
 My goal is to combine financial knowledge, operational experience, and technical skills to contribute to business performance and continuous improvement.
 
 </td>
 <td width="38%" valign="top">
 
-<h3>▸ PROFILE SNAPSHOT</h3>
+### PROFILE SNAPSHOT
 
 🎓 MBA in Finance
 
@@ -131,21 +135,23 @@ My goal is to combine financial knowledge, operational experience, and technical
 </tr>
 </table>
 
-<!-- BUSINESS INTELLIGENCE VISUAL -->
+<!-- BUSINESS INTELLIGENCE IMAGE -->
 
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1400&q=85" alt="Business intelligence analytics dashboard with financial charts"/>
+<img
+  src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1600&q=85"
+  width="100%"
+  alt="Business analytics dashboard with financial charts"
+/>
 
-<sub><i>Business intelligence • Financial data • Performance insights</i></sub>
+<sub><i>Business Intelligence • Financial Data • Performance Insights</i></sub>
 
 </div>
 
 ---
 
-<!-- ================== CAREER INTERESTS ================== -->
-
-<h2>◈ &nbsp; CAREER INTERESTS</h2>
+## ◈ CAREER INTERESTS
 
 <p align="center">
 <img src="https://img.shields.io/badge/FINANCE-0B1F3A?style=for-the-badge" alt="Finance"/>
@@ -158,7 +164,7 @@ My goal is to combine financial knowledge, operational experience, and technical
 <tr>
 <td width="50%" valign="top">
 
-<h3>💰 FINANCE & FINANCIAL SERVICES</h3>
+### 💰 Finance & Financial Services
 
 - Financial Analyst
 - Finance Operations Analyst
@@ -176,7 +182,7 @@ My goal is to combine financial knowledge, operational experience, and technical
 </td>
 <td width="50%" valign="top">
 
-<h3>📊 ANALYTICS & BUSINESS</h3>
+### 📊 Analytics & Business
 
 - Business Analyst
 - Data Analyst
@@ -193,25 +199,15 @@ My goal is to combine financial knowledge, operational experience, and technical
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0891B2,100:38BDF8" width="80%" alt="Blue divider"/>
-
-<i>Open to suitable entry-level and early-career opportunities across finance and analytics.</i>
-
-</div>
-
 ---
 
-<!-- ===================== SKILLS ===================== -->
-
-<h2>◈ &nbsp; SKILLS & TOOLKIT</h2>
+## ◈ SKILLS & TOOLKIT
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<h3>💰 Finance</h3>
+### 💰 Finance
 
 <img src="https://img.shields.io/badge/Financial_Analysis-0B1F3A?style=flat-square" alt="Financial Analysis"/>
 
@@ -228,7 +224,7 @@ My goal is to combine financial knowledge, operational experience, and technical
 </td>
 <td width="33%" valign="top">
 
-<h3>📈 Data & Reporting</h3>
+### 📈 Data & Reporting
 
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
@@ -245,7 +241,7 @@ My goal is to combine financial knowledge, operational experience, and technical
 </td>
 <td width="33%" valign="top">
 
-<h3>💻 Technology</h3>
+### 💻 Technical Background
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 
@@ -257,21 +253,17 @@ My goal is to combine financial knowledge, operational experience, and technical
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- ================== EXPERIENCE ================== -->
-
-<h2>◈ &nbsp; PROFESSIONAL EXPERIENCE</h2>
+## ◈ PROFESSIONAL EXPERIENCE
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ### 🏢 Amazon Development Centre (India) Pvt. Ltd.
 
@@ -286,9 +278,9 @@ My goal is to combine financial knowledge, operational experience, and technical
 - Applied analytical thinking and process improvement techniques.
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### 📊 KEY ACHIEVEMENTS
+### 📊 Key Achievements
 
 <img src="https://img.shields.io/badge/1%2C500%2B-CASES_RESOLVED-075985?style=for-the-badge" alt="1500 plus cases resolved"/>
 
@@ -298,7 +290,7 @@ My goal is to combine financial knowledge, operational experience, and technical
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/25%25-RESOLUTION_EFFICIENCY-164E63?style=for-the-badge" alt="25 percent efficiency improvement"/>
+<img src="https://img.shields.io/badge/25%25-RESOLUTION_EFFICIENCY-164E63?style=for-the-badge" alt="25 percent improvement in resolution efficiency"/>
 
 </td>
 </tr>
@@ -306,31 +298,31 @@ My goal is to combine financial knowledge, operational experience, and technical
 
 ---
 
-<!-- ================== ACADEMIC PROJECT ================== -->
-
-<h2>◈ &nbsp; ACADEMIC PROJECT</h2>
+## ◈ ACADEMIC PROJECT
 
 <table>
 <tr>
 <td width="38%" valign="top">
 
-<img width="100%" src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&q=80" alt="Digital payments and financial technology"/>
+<img
+src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&q=85"
+width="100%"
+alt="Digital payments and financial technology"
+/>
 
 </td>
 <td width="62%" valign="top">
 
 ### 📘 Digital Wallet Loyalty Programs and Consumer Retention at Amazon India
 
-<p>
 <img src="https://img.shields.io/badge/MBA_PROJECT-0B1F3A?style=flat-square" alt="MBA project"/>
 <img src="https://img.shields.io/badge/RESEARCH-075985?style=flat-square" alt="Research"/>
-<img src="https://img.shields.io/badge/DATA_ANALYSIS-087E8B?style=flat-square" alt="Data Analysis"/>
-</p>
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-087E8B?style=flat-square" alt="Data analysis"/>
 
 - Conducted descriptive and analytical research using primary and secondary data.
 - Applied percentage, comparative, and graphical analysis.
-- Examined consumer retention patterns and digital wallet loyalty programs.
-- Developed research, interpretation, and analytical skills.
+- Explored consumer retention and digital wallet loyalty programs.
+- Developed research and data interpretation skills.
 
 </td>
 </tr>
@@ -338,9 +330,7 @@ My goal is to combine financial knowledge, operational experience, and technical
 
 ---
 
-<!-- ================== UPCOMING PROJECTS ================== -->
-
-<h2>◈ &nbsp; UPCOMING ANALYTICS PROJECTS</h2>
+## ◈ UPCOMING ANALYTICS PROJECTS
 
 <p align="center">
 <i>Expanding my portfolio with practical projects in financial analysis and business intelligence.</i>
@@ -401,7 +391,11 @@ My goal is to combine financial knowledge, operational experience, and technical
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=35&lines=LEARNING+TODAY;BUILDING+PROJECTS+TOMORROW;GROWING+THROUGH+ANALYTICS" alt="Learning animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=LEARNING+TODAY;BUILDING+PROJECTS+TOMORROW;GROWING+THROUGH+ANALYTICS"
+width="100%"
+alt="Learning and development animation"
+/>
 
 <sub>Projects will be published as they are completed.</sub>
 
@@ -409,9 +403,7 @@ My goal is to combine financial knowledge, operational experience, and technical
 
 ---
 
-<!-- ================== LEARNING ================== -->
-
-<h2>◈ &nbsp; LEARNING & DEVELOPMENT</h2>
+## ◈ LEARNING & DEVELOPMENT
 
 - 📚 Financial Analysis & Financial Modeling using MS Excel — Udemy
 - 📖 Financial statement and accounting fundamentals
@@ -421,29 +413,34 @@ My goal is to combine financial knowledge, operational experience, and technical
 
 ---
 
-<!-- ================== CONNECT ================== -->
+<!-- ===================================================== -->
+<!-- FULL-WIDTH FOOTER                                      -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:07111F,100:075985&text=LET'S%20CONNECT&fontColor=FFFFFF&fontSize=30&fontAlign=50&fontAlignY=50" alt="Let's connect"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:075985,100:0891B2&height=180&section=footer&reversal=false"
+width="100%"
+alt="Full-width navy and cyan footer wave"
+/>
 
-### Open to learning, collaboration, and career opportunities
+<h2>LET'S CONNECT</h2>
+
+<p>Open to learning, collaboration, and suitable career opportunities.</p>
 
 <a href="https://linkedin.com/in/abhinay-ponaganti-16b7041a1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/abhi6920">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:ponagantiabhinay@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get_In_Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:075985,100:0891B2&height=120&section=footer" alt="Dark blue footer"/>
-
-<i>"Turning analytical thinking into meaningful business value."</i>
+### *Turning analytical thinking into meaningful business value.*
 
 </div>
-
